@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uCCZx9mweEI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hi-Tech\\source\\repos\\DailyQuotes\\DailyQuotesApi\\Quotes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hi-Tech\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\Hi-Tech\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
